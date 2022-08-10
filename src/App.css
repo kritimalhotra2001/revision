@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.image{
+  max-width: 500px !important;
+}
+.nav{
+  color: dimgrey;
+   font-weight: 500;
+   font-size: larger;
+}
+h1{
+padding:100px 50px 50px 100px;
+  font-weight: bold;
+  color: darkslateblue;
+}
+p{
+  color: dimgray;
+  margin-bottom: 50px;
+}
+button{
+  width: 100px;
+  height: 30px;
+  
+}
+body{
+  background-color: black;
+}
+.queries{
+  padding-top: 30px;
+  padding-left: 30px;
+}
